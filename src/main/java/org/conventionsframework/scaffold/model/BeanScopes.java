@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.jsf.conventions.scaffold.model;
+package org.conventionsframework.scaffold.model;
 
 import java.util.ArrayList;
 import java.util.Arrays;

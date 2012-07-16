@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.jsf.conventions.scaffold.util;
+package org.conventionsframework.scaffold.util;
 
 import java.io.FileNotFoundException;
 import java.io.StringWriter;

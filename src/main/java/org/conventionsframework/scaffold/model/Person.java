@@ -1,4 +1,4 @@
-package com.jsf.conventions.scaffold.model;
+package org.conventionsframework.scaffold.model;
 
 
 /**

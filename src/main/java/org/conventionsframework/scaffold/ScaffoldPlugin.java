@@ -2,12 +2,12 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.jsf.conventions.scaffold;
+package org.conventionsframework.scaffold;
 
-import com.jsf.conventions.scaffold.model.BeanScopes;
-import com.jsf.conventions.scaffold.model.BeanTypes;
-import com.jsf.conventions.scaffold.model.ServiceTypes;
-import com.jsf.conventions.scaffold.util.ScaffoldUtils;
+import org.conventionsframework.scaffold.model.BeanScopes;
+import org.conventionsframework.scaffold.model.BeanTypes;
+import org.conventionsframework.scaffold.model.ServiceTypes;
+import org.conventionsframework.scaffold.util.ScaffoldUtils;
 import java.io.FileNotFoundException;
 import java.util.Properties;
 import javax.enterprise.event.Event;
